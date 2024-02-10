@@ -35,3 +35,5 @@ let stats = `You took ${guesses} guesses to sink the battleship, which means you
 }`;
 
 alert(stats);
+
+//fixing a bug
